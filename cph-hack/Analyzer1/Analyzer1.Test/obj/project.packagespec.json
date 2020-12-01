@@ -1,0 +1,78 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Repos\\cph-hack\\cph-hack\\Analyzer1\\Analyzer1.Test\\Analyzer1.Test.csproj",
+    "projectName": "Analyzer1.Test",
+    "projectPath": "C:\\Repos\\cph-hack\\cph-hack\\Analyzer1\\Analyzer1.Test\\Analyzer1.Test.csproj",
+    "outputPath": "C:\\Repos\\cph-hack\\cph-hack\\Analyzer1\\Analyzer1.Test\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {},
+      "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "C:\\Repos\\cph-hack\\cph-hack\\Analyzer1\\Analyzer1\\Analyzer1.csproj": {
+            "projectPath": "C:\\Repos\\cph-hack\\cph-hack\\Analyzer1\\Analyzer1\\Analyzer1.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "Microsoft.CodeAnalysis.Analyzers": {
+          "target": "Package",
+          "version": "[2.6.2, )"
+        },
+        "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+          "target": "Package",
+          "version": "[2.10.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

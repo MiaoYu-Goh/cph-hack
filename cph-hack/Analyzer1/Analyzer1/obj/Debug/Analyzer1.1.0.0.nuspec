@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Analyzer1</id>
+    <version>1.0.0</version>
+    <authors>miao.yugoh</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://license_url_here_or_delete_this_line/</licenseUrl>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>Analyzer1</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright</copyright>
+    <tags>Analyzer1, analyzers</tags>
+    <repository url="http://REPOSITORY_URL_HERE_OR_DELETE_THIS_LINE" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.3" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\tools\install.ps1" target="tools\install.ps1" />
+    <file src="C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\tools\uninstall.ps1" target="tools\uninstall.ps1" />
+    <file src="C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.dll" target="analyzers\dotnet\cs\Analyzer1.dll" />
+  </files>
+</package>

@@ -1,0 +1,13 @@
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\tools\install.ps1
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\tools\uninstall.ps1
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.deps.json
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.dll
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.pdb
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csprojAssemblyReference.cache
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.Resources.resources
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csproj.GenerateResource.cache
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.AssemblyInfoInputs.cache
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.AssemblyInfo.cs
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.dll
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.pdb
+C:\Repos\cph-hack\cph-hack\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csproj.CoreCompileInputs.cache

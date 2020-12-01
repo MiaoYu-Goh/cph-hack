@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Repos\cph-hack\cph-hack" t="IncludeFlat">
+      <e p="Analyzer1\Analyzer1" t="IncludeRecursive">
+        <e p="Analyzer1.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard1.3" t="Include">
+              <e p="Analyzer1.dll" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="NativeArrayAnalyzer.cs" t="Include" />
+        <e p="NativeArrayAnalyzerCodeFixProvider.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard1.3" t="Include">
+              <e p="Analyzer1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="tools" t="Include">
+          <e p="install.ps1" t="Include" />
+          <e p="uninstall.ps1" t="Include" />
+        </e>
+      </e>
+      <e p="Analyzer1\Analyzer1.Test" t="IncludeRecursive">
+        <e p="Analyzer1.Test.csproj" t="IncludeRecursive" />
+        <e p="Analyzer1UnitTests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="CodeFixVerifier.Helper.cs" t="Include" />
+          <e p="DiagnosticResult.cs" t="Include" />
+          <e p="DiagnosticVerifier.Helper.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Analyzer1.Test.AssemblyInfo.cs" t="Include" />
+              <e p="Analyzer1.Test.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Verifiers" t="Include">
+          <e p="CodeFixVerifier.cs" t="Include" />
+          <e p="DiagnosticVerifier.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Analyzer1\Analyzer1.Vsix" t="IncludeRecursive">
+        <e p="Analyzer1.Vsix.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="source.extension.vsixmanifest" t="Include" />
+      </e>
+      <e p="cph-hack.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\miao.yugoh\.nuget\packages\mstest.testadapter\1.3.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\miao.yugoh\.nuget\packages\mstest.testadapter\1.3.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+    <e p="C:\Users\miao.yugoh\.nuget\packages\mstest.testadapter\1.3.2\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+    <e p="C:\Users\miao.yugoh\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\miao.yugoh\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_cph-hack.1357644807.00" t="ExcludeRecursive" />
+  </component>
+</project>
